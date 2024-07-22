@@ -56,8 +56,8 @@ def main():
         else:
             print("Invalid choice. Please try again.")
         
-        input("Press Enter to continue...")  # Pause for user to press Enter before continuing
-        print()  # Add a new line for better readability in the loop
+        input("Press Enter to continue...")  
+        print() 
 
 if __name__ == "__main__":
     main()
